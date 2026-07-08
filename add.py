@@ -4,8 +4,8 @@ sum= num1 + num2
 print("The sum is: ", sum)
 
 
-Notes:
-input()
+# Notes:
+# input()
 
 # Always returns a string.
 # Convert the string into an integer.
